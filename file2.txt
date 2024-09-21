@@ -1,1 +1,2 @@
 test
+"adding content to file2"
